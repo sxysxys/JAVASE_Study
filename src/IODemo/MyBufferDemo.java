@@ -1,3 +1,5 @@
+package IODemo;
+
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -6,7 +8,7 @@ import java.io.IOException;
  */
 public class MyBufferDemo {
     public static void main(String[] args) throws IOException{
-        MoniBuffer moniBuffer = new MoniBuffer(new FileReader("src/mapdemo.java"));
+        MoniBuffer moniBuffer = new MoniBuffer(new FileReader("src/IODemo.mapdemo.java"));
         String line=null;
         while ((line=moniBuffer.MyReadline())!=null){
             System.out.println(line);

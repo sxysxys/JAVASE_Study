@@ -1,3 +1,5 @@
+package IODemo;
+
 import java.io.*;
 
 /**
@@ -9,7 +11,7 @@ public class FileBufferDemo {
         BufferedReader bufferedReader=null;
         try {
             bufferedWriter= new BufferedWriter(new FileWriter("bufferdemo.txt"));
-            bufferedReader=new BufferedReader(new FileReader("src/mapdemo.java"));
+            bufferedReader=new BufferedReader(new FileReader("src/IODemo.mapdemo.java"));
             String num=null;
             while((num=bufferedReader.readLine())!=null){
                 bufferedWriter.write(num);
