@@ -1,0 +1,7 @@
+#hahaha
+#Fri Dec 06 21:22:17 CST 2019
+sun.desktop=windows
+java.vendor.url.bug=http\://bugreport.sun.com/bugreport/
+sun.cpu.endian=little
+sun.cpu.isalist=what happend
+sun.io.unicode.encoding=UnicodeLittle
