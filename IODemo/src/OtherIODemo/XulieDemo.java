@@ -12,7 +12,7 @@ public class XulieDemo {
     public static void main(String[] args) throws IOException{
         FileInputStream a=new FileInputStream("javalist.txt");
         FileInputStream b=new FileInputStream("laoer.txt");
-        FileInputStream c=new FileInputStream("src"+File.separator+"FileDemo"+ File.separator+"rizhi.txt");
+        FileInputStream c=new FileInputStream("src"+File.separator+ "FileDemo" + File.separator+"rizhi.txt");
 
         Vector<FileInputStream> vectors=new Vector<>();
         vectors.add(a);

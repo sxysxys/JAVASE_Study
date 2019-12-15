@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/../DataStructure/DataStructure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IODemo.iml" filepath="$PROJECT_DIR$/IODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IODemo/IODemo.iml" filepath="$PROJECT_DIR$/IODemo/IODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
     </modules>
   </component>
 </project>
