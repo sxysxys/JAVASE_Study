@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d68b7da-2264-4885-953f-49e21cff8be9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/abc/method_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bufferdemo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/copy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hebing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javalist.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/laoer.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/merge.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/person.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IODemo.iml" afterPath="$PROJECT_DIR$/IODemo/IODemo.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/java_se_bi.iml" afterPath="$PROJECT_DIR$/JavaStudy.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ByteDemo/Copyimages.java" afterPath="$PROJECT_DIR$/IODemo/src/ByteDemo/Copyimages.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ByteDemo/MyByfferedInputStream.java" afterPath="$PROJECT_DIR$/IODemo/src/ByteDemo/MyByfferedInputStream.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FileDemo/CreateJavaList.java" afterPath="$PROJECT_DIR$/IODemo/src/FileDemo/CreateJavaList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FileDemo/commonDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/FileDemo/commonDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FileDemo/listAll.java" afterPath="$PROJECT_DIR$/IODemo/src/FileDemo/listAll.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FileDemo/listjava.java" afterPath="$PROJECT_DIR$/IODemo/src/FileDemo/listjava.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FileDemo/rizhi.txt" afterPath="$PROJECT_DIR$/IODemo/src/FileDemo/rizhi.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/FileBufferDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/FileBufferDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/FilePrint.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/FilePrint.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/MyBufferDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/MyBufferDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/ReadinDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/ReadinDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/SystemDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/SystemDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/SystemMessages.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/SystemMessages.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IODemo/mapdemo.java" afterPath="$PROJECT_DIR$/IODemo/src/IODemo/mapdemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/OtherIODemo/SplitDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/OtherIODemo/SplitDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/OtherIODemo/XulieDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/OtherIODemo/XulieDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Properties/PropertiesDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/Properties/PropertiesDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Properties/RunTimes.java" afterPath="$PROJECT_DIR$/IODemo/src/Properties/RunTimes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SerializableStudy/Person.java" afterPath="$PROJECT_DIR$/IODemo/src/SerializableStudy/Person.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SerializableStudy/SerializableDemo.java" afterPath="$PROJECT_DIR$/IODemo/src/SerializableStudy/SerializableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NetDemo/src/IP/IPDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,45 +28,45 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
-              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="-957">
+              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding>
-                <marker date="1576248820291" expanded="true" signature="54800:54842" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="54800:54860" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="54800:54873" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="54800:54888" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="54923:57075" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="54936:57060" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="54990:55285" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55009:55270" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55072:55250" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55112:55216" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55133:55194" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55335:55662" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55354:55647" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55449:55627" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55489:55593" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55510:55571" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55713:55978" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55732:55963" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55765:55943" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55805:55909" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="55826:55887" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56021:56327" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56040:56312" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56114:56292" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56154:56258" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56175:56236" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56378:56729" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56397:56714" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56477:56694" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56517:56660" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56538:56638" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56781:57046" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56800:57031" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56833:57011" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56873:56977" ph="..." />
-                <marker date="1576248820291" expanded="true" signature="56894:56955" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="60871:60888" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="60871:60906" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="60871:60919" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="60871:60934" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="60969:63121" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="60982:63106" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61036:61331" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61055:61316" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61118:61296" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61158:61262" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61179:61240" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61381:61708" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61400:61693" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61495:61673" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61535:61639" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61556:61617" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61759:62024" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61778:62009" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61811:61989" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61851:61955" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="61872:61933" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62067:62373" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62086:62358" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62160:62338" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62200:62304" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62221:62282" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62424:62775" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62443:62760" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62523:62740" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62563:62706" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62584:62684" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62827:63092" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62846:63077" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62879:63057" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62919:63023" ph="..." />
+                <marker date="1576249731289" expanded="true" signature="62940:63001" ph="..." />
               </folding>
             </state>
           </provider>
@@ -135,13 +106,13 @@
         <entry file="file://$PROJECT_DIR$/JavaStudy.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -150,6 +121,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NetDemo/src/IP/IPDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -215,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/FileDemo/SerializableDemo.java" />
         <option value="$PROJECT_DIR$/src/SerializableStudy/Person.java" />
         <option value="$PROJECT_DIR$/src/SerializableStudy/SerializableDemo.java" />
+        <option value="$PROJECT_DIR$/NetDemo/src/IP/IPDemo.java" />
       </list>
     </option>
   </component>
@@ -255,6 +237,49 @@
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="IODemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="IODemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="IODemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ByteDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="IODemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FileDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="NetDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="NetDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="NetDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -264,14 +289,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -290,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Copyimages">
+  <component name="RunManager" selected="Application.IPDemo">
     <configuration name="Copyimages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -310,14 +335,14 @@
       <module name="IODemo" />
       <envs />
     </configuration>
-    <configuration name="CreateJavaList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IPDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="IOStudy.Properties.*" />
+          <option name="PATTERN" value="IP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="FileDemo.CreateJavaList" />
+      <option name="MAIN_CLASS_NAME" value="IP.IPDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -326,7 +351,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="IODemo" />
+      <module name="NetDemo" />
       <envs />
     </configuration>
     <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -480,19 +505,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CreateJavaList" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PropertiesDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RunTimes" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SerializableDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Copyimages" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PropertiesDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RunTimes" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SerializableDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Copyimages" />
+      <item index="4" class="java.lang.String" itemvalue="Application.IPDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Copyimages" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SerializableDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RunTimes" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PropertiesDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CreateJavaList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.IPDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Copyimages" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SerializableDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RunTimes" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PropertiesDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -521,15 +546,16 @@
       <workItem from="1575807273782" duration="1209000" />
       <workItem from="1575901305687" duration="39000" />
       <workItem from="1576236087133" duration="2006000" />
-      <workItem from="1576248351545" duration="506000" />
+      <workItem from="1576248351545" duration="1972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52689000" />
+    <option name="totallyTimeSpent" value="54155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -541,7 +567,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.309795" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30865604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24943052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -596,13 +622,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IODemo/src/IODemo/mapdemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IODemo/src/IODemo/SystemDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
@@ -858,45 +877,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="-957">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding>
-            <marker date="1576248820291" expanded="true" signature="54800:54842" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="54800:54860" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="54800:54873" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="54800:54888" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="54923:57075" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="54936:57060" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="54990:55285" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55009:55270" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55072:55250" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55112:55216" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55133:55194" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55335:55662" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55354:55647" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55449:55627" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55489:55593" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55510:55571" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55713:55978" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55732:55963" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55765:55943" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55805:55909" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="55826:55887" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56021:56327" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56040:56312" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56114:56292" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56154:56258" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56175:56236" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56378:56729" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56397:56714" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56477:56694" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56517:56660" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56538:56638" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56781:57046" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56800:57031" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56833:57011" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56873:56977" ph="..." />
-            <marker date="1576248820291" expanded="true" signature="56894:56955" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="60871:60888" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="60871:60906" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="60871:60919" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="60871:60934" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="60969:63121" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="60982:63106" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61036:61331" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61055:61316" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61118:61296" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61158:61262" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61179:61240" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61381:61708" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61400:61693" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61495:61673" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61535:61639" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61556:61617" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61759:62024" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61778:62009" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61811:61989" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61851:61955" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="61872:61933" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62067:62373" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62086:62358" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62160:62338" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62200:62304" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62221:62282" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62424:62775" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62443:62760" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62523:62740" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62563:62706" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62584:62684" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62827:63092" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62846:63077" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62879:63057" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62919:63023" ph="..." />
+            <marker date="1576249731289" expanded="true" signature="62940:63001" ph="..." />
           </folding>
         </state>
       </provider>
@@ -920,7 +939,15 @@
     <entry file="file://$PROJECT_DIR$/JavaStudy.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ttt.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -936,10 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttt.properties">
+    <entry file="file://$PROJECT_DIR$/NetDemo/src/IP/IPDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="297">
+          <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
           <folding />
         </state>
       </provider>
