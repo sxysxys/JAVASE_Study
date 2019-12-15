@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d68b7da-2264-4885-953f-49e21cff8be9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+    <list default="true" id="3b8679d0-4bec-40e6-9335-eb3d200e4737" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IODemo/SerializableStudy/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IODemo/SerializableStudy/SerializableDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IODemo/src/SerializableStudy/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IODemo/src/SerializableStudy/SerializableDemo.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/abc/method_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bufferdemo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/copy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hebing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javalist.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/laoer.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/merge.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ttt.properties" afterPath="$PROJECT_DIR$/ttt.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/java_se_bi.iml" afterPath="$PROJECT_DIR$/NetDemo/NetDemo.iml" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,19 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CircleArrayQueneDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/sxy/quene/CircleArrayQueneDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="114" column="9" lean-forward="false" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
-              <folding>
-                <element signature="e#2230#2231#0" expanded="true" />
-                <element signature="e#2276#2277#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SingleLinkedListDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructure/src/com/sxy/linkedlist/SingleLinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,15 +48,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoubleLinkedListDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DoubleLinkedListDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataStructure/src/com/sxy/linkedlist/DoubleLinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-              <folding>
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="629">
+              <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,11 +130,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".name" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <file leaf-file-name="DataStructure.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructure/DataStructure.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IODemo.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IODemo/IODemo.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -145,57 +152,8 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/mapdemo.java" />
-        <option value="$PROJECT_DIR$/src/SystemDemo.java" />
-        <option value="$PROJECT_DIR$/src/FileBufferDemo.java" />
-        <option value="$PROJECT_DIR$/src/MyBufferDemo.java" />
-        <option value="$PROJECT_DIR$/src/ReadinDemo.java" />
-        <option value="$PROJECT_DIR$/src/IODemo/SystemDemo.java" />
-        <option value="$PROJECT_DIR$/src/IODemo/ReadinDemo.java" />
-        <option value="$PROJECT_DIR$/src/IODemo/FilePrint.java" />
-        <option value="$PROJECT_DIR$/src/IODemo/SystemMessages.java" />
-        <option value="$PROJECT_DIR$/src/FileDemo/listjava.java" />
-        <option value="$PROJECT_DIR$/src/FileDemo/commonDemo.java" />
-        <option value="$PROJECT_DIR$/src/FileDemo/listAll.java" />
-        <option value="$PROJECT_DIR$/src/FileDemo/CreateJavaList.java" />
-        <option value="$PROJECT_DIR$/src/FileDemo/rizhi.txt" />
-        <option value="$PROJECT_DIR$/src/FileDemo/PropertiesDemo.java" />
-        <option value="$PROJECT_DIR$/src/FileDemo/RunTimes.java" />
-        <option value="$PROJECT_DIR$/src/Properties/PropertiesDemo.java" />
-        <option value="$PROJECT_DIR$/src/Properties/RunTimes.java" />
-        <option value="$PROJECT_DIR$/a" />
-        <option value="$PROJECT_DIR$/src/OtherIODemo.java" />
-        <option value="$PROJECT_DIR$/src/OtherIODemo/XulieDemo.java" />
-        <option value="$PROJECT_DIR$/src/OtherIODemo/SplitDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/sparsearray/SparseArray.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/quene/ArrayQuene.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/quene/ArrayQueneDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/quene/CircleArrayQuene.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/quene/CircleArrayQueneDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/linkedlist/SingleLinkedList.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/linkedlist/SingleLinkedListDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/linkedlist/GetLinkedLength.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/linkedlist/LinkedExercise.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/linkedlist/DoubleLinkedListDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/linkedlist/Josephu.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/stack/ArrayStackDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructure/src/com/sxy/stack/PolandNotation.java" />
-        <option value="$PROJECT_DIR$/.idea/.name" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -203,7 +161,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="234" />
     <option name="y" value="1" />
     <option name="width" value="1431" />
@@ -238,6 +196,56 @@
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sxy" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sxy" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="DoubleLinkedListDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="IODemo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -246,15 +254,6 @@
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
-    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -268,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Copyimages">
+  <component name="RunManager" selected="Application.DoubleLinkedListDemo">
     <configuration name="ArrayStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -454,11 +453,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Copyimages" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PolandNotation" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayStackDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Josephu" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DoubleLinkedListDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DoubleLinkedListDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Copyimages" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PolandNotation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayStackDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Josephu" />
       </list>
     </recent_temporary>
   </component>
@@ -494,15 +493,16 @@
       <workItem from="1576199935109" duration="21148000" />
       <workItem from="1576414953558" duration="256000" />
       <workItem from="1576415269958" duration="55000" />
-      <workItem from="1576415910632" duration="166000" />
+      <workItem from="1576415910632" duration="294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102143000" />
+    <option name="totallyTimeSpent" value="102271000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2578" height="1408" extended-state="7" />
+    <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -510,7 +510,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2795699" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1996805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -569,21 +569,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml" />
     <entry file="file://$PROJECT_DIR$/IODemo/src/IODemo/MyBufferDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
@@ -839,17 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/sxy/linkedlist/DoubleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding>
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/com/sxy/linkedlist/Josephu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3589">
@@ -924,6 +898,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/DataStructure.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IODemo/IODemo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/sxy/linkedlist/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding />
         </state>
       </provider>
