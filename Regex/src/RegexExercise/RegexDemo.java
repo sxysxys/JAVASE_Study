@@ -22,7 +22,6 @@ public class RegexDemo {
 
     }
 
-
     /**
      * 匹配qq号
      * @param qq
