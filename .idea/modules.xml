@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetDemo/NetDemo.iml" filepath="$PROJECT_DIR$/NetDemo/NetDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
     </modules>
   </component>
 </project>
