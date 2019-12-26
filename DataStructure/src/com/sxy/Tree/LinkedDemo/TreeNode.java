@@ -11,6 +11,25 @@ public class TreeNode {
     private TreeNode lTree;
     private TreeNode rTree;
 
+    private int leftType;
+    private int rightType;
+
+    public int getLeftType() {
+        return leftType;
+    }
+
+    public void setLeftType(int leftType) {
+        this.leftType = leftType;
+    }
+
+    public int getRightType() {
+        return rightType;
+    }
+
+    public void setRightType(int rightType) {
+        this.rightType = rightType;
+    }
+
     public TreeNode(int value){
         this.value = value;
     }

@@ -12,7 +12,8 @@ public class TestBinaryTree {
         node1.setrTree(rTree);
 
         lTree.setlTree(new TreeNode(4));
-        lTree.setrTree(new TreeNode(5));
+        TreeNode rTree1 = new TreeNode(5);
+        lTree.setrTree(rTree1);
         rTree.setlTree(new TreeNode(6));
         rTree.setrTree(new TreeNode(7));
 
@@ -29,9 +30,17 @@ public class TestBinaryTree {
         TreeNode seaNode =binaryTree.frontSearch(2);
         System.out.println(seaNode);
         //删除某个节点
-        binaryTree.delete(6);
-        binaryTree.frontShow();
+//        binaryTree.delete(6);
+//        binaryTree.frontShow();
         System.out.println();
         binaryTree.midShow();
+
+        binaryTree.threadNodes();
+//        TreeNode treeNode = binaryTree.frontSearch(5);
+        System.out.println();
+//        System.out.println(rTree1.getrTree().value);
+        binaryTree.threadIterate();
+
+
     }
 }
