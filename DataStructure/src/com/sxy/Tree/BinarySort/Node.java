@@ -138,6 +138,7 @@ public class Node {
         return null;
     }
 
+
     /**
      * 返回节点高度
      *
@@ -170,6 +171,7 @@ public class Node {
             return right.height();
         }
     }
+
 
     /**
      * 左旋转，当右边高度大于左边高度的时候。
