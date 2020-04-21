@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleTest" />
+        <option name="gradleHome" value="$USER_HOME$/opt/gradle/gradle-6.2.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleTest" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/GradleTestModule" />
+        <option name="gradleHome" value="$USER_HOME$/opt/gradle/gradle-6.2.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/GradleTestModule" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

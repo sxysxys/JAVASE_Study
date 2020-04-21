@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="GradleTest" external.linked.project.path="$MODULE_DIR$/../../GradleTest" external.root.project.path="$MODULE_DIR$/../../GradleTest" external.system.id="GRADLE" external.system.module.group="GradleTest" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../GradleTest" rootProjectPath="$MODULE_DIR$/../../GradleTest" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../GradleTest">
+      <excludeFolder url="file://$MODULE_DIR$/../../GradleTest/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../GradleTest/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../GradleTest/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

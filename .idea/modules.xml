@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTest.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTestModule.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTestModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTestModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTestModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTestModule.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/IODemo/IODemo.iml" filepath="$PROJECT_DIR$/IODemo/IODemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetDemo/NetDemo.iml" filepath="$PROJECT_DIR$/NetDemo/NetDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThinkinJava/ThinkinJava.iml" filepath="$PROJECT_DIR$/ThinkinJava/ThinkinJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
     </modules>
   </component>

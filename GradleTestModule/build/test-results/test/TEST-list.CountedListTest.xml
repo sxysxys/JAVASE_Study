@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="list.CountedListTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-11T09:29:53" hostname="sxydeMacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="addAll()" classname="list.CountedListTest" time="0.007"/>
+  <testcase name="insert()" classname="list.CountedListTest" time="0.001"/>
+  <testcase name="remove()" classname="list.CountedListTest" time="0.0"/>
+  <testcase name="order()" classname="list.CountedListTest" time="0.001"/>
+  <testcase name="replace()" classname="list.CountedListTest" time="0.001"/>
+  <system-out><![CDATA[>>> Starting list.CountedListTest
+list.CountedList #0
+Set up for 0
+Running testAddAll()
+Cleaning up 0
+list.CountedList #1
+Set up for 1
+Running testInsert()
+Cleaning up 1
+list.CountedList #2
+Set up for 2
+Running testRemove()
+Cleaning up 2
+list.CountedList #3
+Set up for 3
+Running testOrder()
+Cleaning up 3
+list.CountedList #4
+Set up for 4
+Running testReplace()
+Cleaning up 4
+>>> Finished list.CountedListTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
