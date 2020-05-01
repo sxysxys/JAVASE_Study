@@ -1,4 +1,4 @@
-package IP;
+package com.sxy.IP;
 
 import java.net.InetAddress;
 

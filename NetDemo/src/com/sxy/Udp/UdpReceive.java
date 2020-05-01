@@ -1,8 +1,7 @@
-package Udp;
+package com.sxy.Udp;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
-import java.net.InetAddress;
 
 /**
  * udp接收端，用于接收和处理数据的

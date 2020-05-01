@@ -1,4 +1,4 @@
-package Udp;
+package com.sxy.Udp;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
